@@ -1,3 +1,9 @@
+div#form {
+    margin: auto;
+    width:730px;
+}
+* { margin:0; }
+
 fieldset{
     background-color: #e1ecf3;
     width: 500px;
