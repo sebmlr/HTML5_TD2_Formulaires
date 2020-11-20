@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<form method="post">
+    <fieldset>
+        <legend>Données personnelles</legend>
+        <input type="radio" id="man">
+        <label for="man">Homme</label>
+        <input type="radio" id="woman">
+        <label for="woman">Femme</label><br/>
+        <label for="name">Nom</label>
+        <input type="text" id="name"><br/>
+        <label for="first_name">Prénom</label>
+        <input type="text" id="first_name"><br/>
+        <label for="birthday">Date de naissance</label>
+        <input type="text" id="birthday"><br/>
+        <label for="adress">Adresse</label>
+        <input type="text" id="adress"><br/>
+        <label for="zip_code">Code postale</label>
+        <input type="text" id="zip_code"><br/>
+        <label for="city">Ville</label>
+        <input type="text" id="city" list="list_city"><br/>
+        <datalist id="list_city">
+            <option value="Béthune">
+            <option value="Douai">
+            <option value="Lens">
+            <option value="Lille">
+        </datalist>
+    </fieldset>
+</form>
+
+<form method="post">
+    <fieldset>
+        <legend>Vous contacter</legend>
+        <label for="mail">Email</label>
+        <input id="mail" type="text"><br/>
+        <label for="phone">Téléphone</label>
+        <input id="phone" type="text"><br/>
+    </fieldset>
+</form>
+
+<form method="post" action="Welcome.html">
+    <fieldset>
+        <legend>Valider votre inscription</legend>
+    </fieldset>
+</form>
+
+
+
+</body>
+</html>
