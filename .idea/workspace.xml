@@ -53,7 +53,7 @@
       <workItem from="1605867219217" duration="99000" />
       <workItem from="1605867619159" duration="2419000" />
       <workItem from="1605873751098" duration="2620000" />
-      <workItem from="1605876674266" duration="4099000" />
+      <workItem from="1605876674266" duration="4402000" />
     </task>
     <task id="LOCAL-00001" summary="Formluaires">
       <created>1605876156854</created>
@@ -90,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605880725197</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Formluaires">
+      <created>1605881156159</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605881156159</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Formluaires">
+      <created>1605881275515</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605881275515</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,10 +115,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Formluaires" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="643" y="138" key="CommitChangelistDialog2" timestamp="1605880724801">
+    <state x="643" y="138" key="CommitChangelistDialog2" timestamp="1605881275121">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="643" y="138" key="CommitChangelistDialog2/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605880724801" />
+    <state x="643" y="138" key="CommitChangelistDialog2/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605881275121" />
     <state x="805" y="316" key="FileChooserDialogImpl" timestamp="1605875172758">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
@@ -117,9 +131,9 @@
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="799" y="265" key="Github.UntrackedFilesDialog/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605869913481" />
-    <state x="617" y="294" key="Vcs.Push.Dialog.v2" timestamp="1605880726509">
+    <state x="617" y="294" key="Vcs.Push.Dialog.v2" timestamp="1605881276544">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="617" y="294" key="Vcs.Push.Dialog.v2/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605880726509" />
+    <state x="617" y="294" key="Vcs.Push.Dialog.v2/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605881276544" />
   </component>
 </project>

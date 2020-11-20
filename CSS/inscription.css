@@ -1,12 +1,10 @@
 div#form {
     margin: auto;
-    width:600px;
+    width:500px;
 }
-* { margin:0; }
 
 fieldset{
     background-color: #e1ecf3;
-    width: 500px;
     border-radius: 10px;
     color: #2f4647;
 }
