@@ -1,0 +1,38 @@
+fieldset{
+    background-color: #e1ecf3;
+    width: 500px;
+    border-radius: 10px;
+    color: #2f4647;
+}
+label{
+    font-weight: bolder;
+}
+input[type="radio"] {
+    width: 10px;
+}
+input[type="checkbox"] {
+    width: 10px;
+}
+.gender{
+    font-weight: normal;
+}
+label{
+    color: #2b6b6d;
+}
+legend{
+    font-family: "Comic Sans MS";
+}
+input{
+    width: 100%;
+}
+button[type="submit"] {
+    border-radius: 8px;
+    width: 90px;
+}
+button[type="reset"] {
+    border-radius: 8px;
+    width: 90px;
+}
+.buttons{
+    margin-left: 300px;
+}
