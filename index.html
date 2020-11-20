@@ -18,11 +18,11 @@
         <label for="first_name">Prénom</label>
         <input type="text" id="first_name"><br/>
         <label for="birthday">Date de naissance</label>
-        <input type="text" id="birthday"><br/>
+        <input type="date" id="birthday"><br/>
         <label for="adress">Adresse</label>
         <input type="text" id="adress"><br/>
         <label for="zip_code">Code postale</label>
-        <input type="text" id="zip_code"><br/>
+        <input type="number" id="zip_code"><br/>
         <label for="city">Ville</label>
         <input type="text" id="city" list="list_city"><br/>
         <datalist id="list_city">
@@ -38,9 +38,9 @@
     <fieldset>
         <legend>Vous contacter</legend>
         <label for="mail">Email</label>
-        <input id="mail" type="text"><br/>
+        <input id="mail" type="email"><br/>
         <label for="phone">Téléphone</label>
-        <input id="phone" type="text">
+        <input id="phone" type="tel">
     </fieldset>
 </form>
 
@@ -48,9 +48,9 @@
     <fieldset>
         <legend>Valider votre inscription</legend>
         <label for="pwd">Saisir votre mot de passe</label>
-        <input id="pwd" type="text"><br/>
+        <input id="pwd" type="password"><br/>
         <label for="pwd_confirm">Confirmer votre mot de passe</label>
-        <input id="pwd_confirm" type="text"><br/>
+        <input id="pwd_confirm" type="password"><br/>
         <input id="ToS" type="checkbox">
         <label for="ToS">« J’ai compris les conditions générales d’utilisation du site »</label><br/>
         <button type="submit">Valider</button>
