@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d5593cf-2cbf-4700-9635-0657345573d1" name="Default Changelist" comment="" />
+    <list default="true" id="5d5593cf-2cbf-4700-9635-0657345573d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/form_control.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kYAb0QixUCcQSwg6nXOz3rityv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,8 +34,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjetFrontLB" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sebml\PhpstormProjects\Html5_TD2_Formulaires" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -38,7 +51,8 @@
       <option name="presentableId" value="Default" />
       <updated>1605867218152</updated>
       <workItem from="1605867219217" duration="99000" />
-      <workItem from="1605867619159" duration="2064000" />
+      <workItem from="1605867619159" duration="2419000" />
+      <workItem from="1605873751098" duration="2285000" />
     </task>
     <servers />
   </component>
@@ -46,9 +60,21 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="805" y="316" key="FileChooserDialogImpl" timestamp="1605867316544">
+    <state x="643" y="138" key="CommitChangelistDialog2" timestamp="1605869922823">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="805" y="316" key="FileChooserDialogImpl/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605867316544" />
+    <state x="643" y="138" key="CommitChangelistDialog2/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605869922823" />
+    <state x="805" y="316" key="FileChooserDialogImpl" timestamp="1605875172758">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="805" y="316" key="FileChooserDialogImpl/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605875172758" />
+    <state x="867" y="459" key="Github.ShareDialog" timestamp="1605869908748">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="867" y="459" key="Github.ShareDialog/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605869908748" />
+    <state x="799" y="265" key="Github.UntrackedFilesDialog" timestamp="1605869913481">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="799" y="265" key="Github.UntrackedFilesDialog/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605869913481" />
   </component>
 </project>

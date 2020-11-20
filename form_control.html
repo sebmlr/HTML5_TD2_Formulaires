@@ -5,8 +5,7 @@
     <title>Title</title>
 </head>
 <body>
-
-<form method="post">
+<form method="post" action="Welcome.html">
     <fieldset>
         <legend>Données personnelles</legend>
         <input type="radio" id="man">
@@ -14,17 +13,17 @@
         <input type="radio" id="woman">
         <label for="woman">Femme</label><br/>
         <label for="name">Nom</label>
-        <input type="text" id="name"><br/>
+        <input type="text" id="name" minlength="2" maxlength="30" size="30" required/><br/>
         <label for="first_name">Prénom</label>
-        <input type="text" id="first_name"><br/>
+        <input type="text" id="first_name" minlength="2" maxlength="30" size="30" required/><br/>
         <label for="birthday">Date de naissance</label>
-        <input type="text" id="birthday"><br/>
+        <input type="text" id="birthday" required/><br/>
         <label for="adress">Adresse</label>
-        <input type="text" id="adress"><br/>
+        <input type="text" id="adress" minlength="2" maxlength="100" size="20" required/><br/>
         <label for="zip_code">Code postale</label>
-        <input type="text" id="zip_code"><br/>
+        <input type="text" id="zip_code" size="5" pattern="[0-9]{5}" required/><br/>
         <label for="city">Ville</label>
-        <input type="text" id="city" list="list_city"><br/>
+        <input type="text" id="city" list="list_city" required/><br/>
         <datalist id="list_city">
             <option value="Béthune">
             <option value="Douai">
@@ -32,26 +31,22 @@
             <option value="Lille">
         </datalist>
     </fieldset>
-</form>
 
-<form method="post">
     <fieldset>
         <legend>Vous contacter</legend>
         <label for="mail">Email</label>
-        <input id="mail" type="text"><br/>
+        <input id="mail" type="text" minlength="2" maxlength="50" size="20" required/><br/>
         <label for="phone">Téléphone</label>
-        <input id="phone" type="text">
+        <input id="phone" type="text" pattern="[0-9]{2}.[0-9]{2}.[0-9]{2}.[0-9]{2}.[0-9]{2}" size="20" placeholder="Ex 00.00.00.00.00" required/>
     </fieldset>
-</form>
 
-<form method="post" action="Welcome.html">
     <fieldset>
         <legend>Valider votre inscription</legend>
         <label for="pwd">Saisir votre mot de passe</label>
-        <input id="pwd" type="text"><br/>
+        <input id="pwd" type="text" required/><br/>
         <label for="pwd_confirm">Confirmer votre mot de passe</label>
-        <input id="pwd_confirm" type="text"><br/>
-        <input id="ToS" type="checkbox">
+        <input id="pwd_confirm" type="text" required/><br/>
+        <input id="ToS" type="checkbox" required/>
         <label for="ToS">« J’ai compris les conditions générales d’utilisation du site »</label><br/>
         <button type="submit">Valider</button>
         <button type="reset">Annuler</button>
